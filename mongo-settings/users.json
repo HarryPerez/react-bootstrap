@@ -1,0 +1,4 @@
+[
+  {  "name" : "Zerf", "surname" : "Dev", "email" : "dev@zerf.com.ar", "password" : "$2a$10$LjWfPdqv0LA6Orzr1ZWvVuwJ3CX2UnSKIoHSKZwmEAQ/HVtEWr6PW", "role" : "user", "createdAt" : "2020-05-09T03:40:47.874Z", "updatedAt" : "2020-05-09T03:40:47.874Z", "active" : true },
+  {  "name" : "Admin", "surname" : "Dev", "email" : "admin@zerf.com.ar", "password" : "$2a$10$LjWfPdqv0LA6Orzr1ZWvVuwJ3CX2UnSKIoHSKZwmEAQ/HVtEWr6PW", "role" : "admin", "createdAt" : "2020-05-09T03:40:47.874Z", "updatedAt" : "2020-05-09T03:40:47.874Z", "active" : true }
+]
